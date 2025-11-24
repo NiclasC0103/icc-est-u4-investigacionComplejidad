@@ -246,7 +246,11 @@ private void dividir(int[] arr, int n) {
 # **Conclusiones**
 
 
-**Nicolás Andres Cornejo Solís**: 
+**Nicolás Andres Cornejo Solís**: Al finalizar la práctica se obtuvo una comprensión más clara sobre la importancia del análisis de complejidad en los algoritmos. No basta con verificar que una solución funcione; su eficiencia resulta determinante cuando el tamaño de los datos aumenta. La comparación entre complejidades lineales y cuadráticas permitió evidenciar cómo el tiempo de ejecución puede incrementarse de forma considerable, lo que vuelve ciertos enfoques poco viables en escenarios reales. Esto demuestra que el rendimiento depende principalmente del diseño del algoritmo y no únicamente del hardware disponible.
+
+Asimismo, se logró diferenciar entre el análisis teórico y las pruebas experimentales, entendiendo que ambos enfoques se complementan para evaluar el comportamiento de un algoritmo con mayor precisión. En conjunto, la práctica refuerza la necesidad de desarrollar soluciones eficientes, escalables y bien estructuradas, capaces de mantener un desempeño adecuado a medida que crecen las demandas computacionales.
+
+
 
 ---
 
