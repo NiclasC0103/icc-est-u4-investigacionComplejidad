@@ -1,4 +1,4 @@
-# **INFORME DE INVESTIGACION DE COMPLEGIDAD**
+# **INFORME DE INVESTIGACION DE COMPLEJIDAD**
 
 
 ![LOGO CARRERA](assets/ups-icc.png)
@@ -250,7 +250,10 @@ private void dividir(int[] arr, int n) {
 
 Asimismo, se logró diferenciar entre el análisis teórico y las pruebas experimentales, entendiendo que ambos enfoques se complementan para evaluar el comportamiento de un algoritmo con mayor precisión. En conjunto, la práctica refuerza la necesidad de desarrollar soluciones eficientes, escalables y bien estructuradas, capaces de mantener un desempeño adecuado a medida que crecen las demandas computacionales.
 
+**Edison Jahir Mendieta Armijos**: La teoria de la complejidad es una rama de la informatica que nos permite calcular la complejidad de un programa y saber la cantidad de recursos que consume el programa ya sea en tiempo o en espacio de memoria, se usan varias notaciones para representar su complejidad y el
+el aumento de complejidad segun el numero de entradas que tenga.
 
+Tambien se tomaro en cuenta otros factores como la eficiencia del codigo o factores externos como el hardware, el lenguaje de programación la compilación, el sistema operativo, etc.
 
 ---
 
